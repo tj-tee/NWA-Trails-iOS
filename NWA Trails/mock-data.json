@@ -1,0 +1,1030 @@
+[
+    {
+        "id": 1,
+        "region": "Mock Region",
+        "name": "Trail System 1",
+        "trails": [
+            {
+                "id": 101,
+                "name": "Trail 101",
+                "difficultyId": "1",
+                "active": true,
+                "updatedAt": "2023-06-05T19:41:45.298Z",
+                "status": {
+                    "date": "2024-02-12T14:10:50.715Z",
+                    "status": 0
+                }
+            },
+            {
+                "id": 102,
+                "name": "Trail 102",
+                "difficultyId": "2",
+                "active": true,
+                "updatedAt": "2023-06-05T19:41:45.298Z",
+                "status": {
+                    "date": "2024-02-12T14:10:50.715Z",
+                    "status": 1
+                }
+            },
+            {
+                "id": 103,
+                "name": "Trail 103",
+                "difficultyId": "3",
+                "active": true,
+                "updatedAt": "2023-06-05T19:41:45.298Z",
+                "status": {
+                    "date": "2024-02-12T14:10:50.715Z",
+                    "status": 2
+                }
+            },
+            {
+                "id": 104,
+                "name": "Trail 104",
+                "difficultyId": "4",
+                "active": true,
+                "updatedAt": "2023-06-05T19:41:45.298Z",
+                "status": {
+                    "date": "2024-02-12T14:10:50.715Z",
+                    "status": 3
+                }
+            },
+            {
+                "id": 105,
+                "name": "Trail 105",
+                "difficultyId": "5",
+                "active": true,
+                "updatedAt": "2023-06-05T19:41:45.298Z",
+                "status": {
+                    "date": "2024-02-12T14:10:50.715Z",
+                    "status": 3
+                }
+            },
+            {
+                "id": 106,
+                "name": "Trail 106",
+                "difficultyId": "1",
+                "active": true,
+                "updatedAt": "2023-06-05T19:41:45.298Z",
+                "status": {
+                    "date": "2024-02-12T14:10:50.715Z",
+                    "status": 0
+                }
+            },
+            {
+                "id": 107,
+                "name": "Trail 107",
+                "difficultyId": "2",
+                "active": true,
+                "updatedAt": "2023-06-05T19:41:45.298Z",
+                "status": {
+                    "date": "2024-02-12T14:10:50.715Z",
+                    "status": 1
+                }
+            },
+            {
+                "id": 108,
+                "name": "Trail 108",
+                "difficultyId": "3",
+                "active": true,
+                "updatedAt": "2023-06-05T19:41:45.298Z",
+                "status": {
+                    "date": "2024-02-12T14:10:50.715Z",
+                    "status": 2
+                }
+            },
+            {
+                "id": 109,
+                "name": "Trail 109",
+                "difficultyId": "4",
+                "active": true,
+                "updatedAt": "2023-06-05T19:41:45.298Z",
+                "status": {
+                    "date": "2024-02-12T14:10:50.715Z",
+                    "status": 3
+                }
+            },
+            {
+                "id": 110,
+                "name": "Trail 110",
+                "difficultyId": "5",
+                "active": true,
+                "updatedAt": "2023-06-05T19:41:45.298Z",
+                "status": {
+                    "date": "2024-02-12T14:10:50.715Z",
+                    "status": 3
+                }
+            },
+            {
+                "id": 111,
+                "name": "Trail 111",
+                "difficultyId": "1",
+                "active": true,
+                "updatedAt": "2023-06-05T19:41:45.298Z",
+                "status": {
+                    "date": "2024-02-12T14:10:50.715Z",
+                    "status": 0
+                }
+            },
+            {
+                "id": 112,
+                "name": "Trail 112",
+                "difficultyId": "2",
+                "active": true,
+                "updatedAt": "2023-06-05T19:41:45.298Z",
+                "status": {
+                    "date": "2024-02-12T14:10:50.715Z",
+                    "status": 1
+                }
+            },
+            {
+                "id": 113,
+                "name": "Trail 113",
+                "difficultyId": "3",
+                "active": true,
+                "updatedAt": "2023-06-05T19:41:45.298Z",
+                "status": {
+                    "date": "2024-02-12T14:10:50.715Z",
+                    "status": 2
+                }
+            },
+            {
+                "id": 114,
+                "name": "Trail 114",
+                "difficultyId": "4",
+                "active": true,
+                "updatedAt": "2023-06-05T19:41:45.298Z",
+                "status": {
+                    "date": "2024-02-12T14:10:50.715Z",
+                    "status": 3
+                }
+            },
+            {
+                "id": 115,
+                "name": "Trail 115",
+                "difficultyId": "5",
+                "active": true,
+                "updatedAt": "2023-06-05T19:41:45.298Z",
+                "status": {
+                    "date": "2024-02-12T14:10:50.715Z",
+                    "status": 3
+                }
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "region": "Mock Region",
+        "name": "Trail System 2",
+        "trails": [
+            {
+                "id": 201,
+                "name": "Trail 201",
+                "difficultyId": "1",
+                "active": true,
+                "updatedAt": "2023-06-05T19:41:45.298Z",
+                "status": {
+                    "date": "2024-02-12T14:10:50.715Z",
+                    "status": 0
+                }
+            },
+            {
+                "id": 202,
+                "name": "Trail 202",
+                "difficultyId": "2",
+                "active": true,
+                "updatedAt": "2023-06-05T19:41:45.298Z",
+                "status": {
+                    "date": "2024-02-12T14:10:50.715Z",
+                    "status": 1
+                }
+            },
+            {
+                "id": 203,
+                "name": "Trail 203",
+                "difficultyId": "3",
+                "active": true,
+                "updatedAt": "2023-06-05T19:41:45.298Z",
+                "status": {
+                    "date": "2024-02-12T14:10:50.715Z",
+                    "status": 2
+                }
+            },
+            {
+                "id": 204,
+                "name": "Trail 204",
+                "difficultyId": "4",
+                "active": true,
+                "updatedAt": "2023-06-05T19:41:45.298Z",
+                "status": {
+                    "date": "2024-02-12T14:10:50.715Z",
+                    "status": 3
+                }
+            },
+            {
+                "id": 205,
+                "name": "Trail 205",
+                "difficultyId": "5",
+                "active": true,
+                "updatedAt": "2023-06-05T19:41:45.298Z",
+                "status": {
+                    "date": "2024-02-12T14:10:50.715Z",
+                    "status": 3
+                }
+            },
+            {
+                "id": 206,
+                "name": "Trail 206",
+                "difficultyId": "1",
+                "active": true,
+                "updatedAt": "2023-06-05T19:41:45.298Z",
+                "status": {
+                    "date": "2024-02-12T14:10:50.715Z",
+                    "status": 0
+                }
+            },
+            {
+                "id": 207,
+                "name": "Trail 207",
+                "difficultyId": "2",
+                "active": true,
+                "updatedAt": "2023-06-05T19:41:45.298Z",
+                "status": {
+                    "date": "2024-02-12T14:10:50.715Z",
+                    "status": 1
+                }
+            },
+            {
+                "id": 208,
+                "name": "Trail 208",
+                "difficultyId": "3",
+                "active": true,
+                "updatedAt": "2023-06-05T19:41:45.298Z",
+                "status": {
+                    "date": "2024-02-12T14:10:50.715Z",
+                    "status": 2
+                }
+            },
+            {
+                "id": 209,
+                "name": "Trail 209",
+                "difficultyId": "4",
+                "active": true,
+                "updatedAt": "2023-06-05T19:41:45.298Z",
+                "status": {
+                    "date": "2024-02-12T14:10:50.715Z",
+                    "status": 3
+                }
+            },
+            {
+                "id": 210,
+                "name": "Trail 210",
+                "difficultyId": "5",
+                "active": true,
+                "updatedAt": "2023-06-05T19:41:45.298Z",
+                "status": {
+                    "date": "2024-02-12T14:10:50.715Z",
+                    "status": 3
+                }
+            },
+            {
+                "id": 211,
+                "name": "Trail 211",
+                "difficultyId": "1",
+                "active": true,
+                "updatedAt": "2023-06-05T19:41:45.298Z",
+                "status": {
+                    "date": "2024-02-12T14:10:50.715Z",
+                    "status": 0
+                }
+            },
+            {
+                "id": 212,
+                "name": "Trail 212",
+                "difficultyId": "2",
+                "active": true,
+                "updatedAt": "2023-06-05T19:41:45.298Z",
+                "status": {
+                    "date": "2024-02-12T14:10:50.715Z",
+                    "status": 1
+                }
+            },
+            {
+                "id": 213,
+                "name": "Trail 213",
+                "difficultyId": "3",
+                "active": true,
+                "updatedAt": "2023-06-05T19:41:45.298Z",
+                "status": {
+                    "date": "2024-02-12T14:10:50.715Z",
+                    "status": 2
+                }
+            },
+            {
+                "id": 214,
+                "name": "Trail 214",
+                "difficultyId": "4",
+                "active": true,
+                "updatedAt": "2023-06-05T19:41:45.298Z",
+                "status": {
+                    "date": "2024-02-12T14:10:50.715Z",
+                    "status": 3
+                }
+            },
+            {
+                "id": 215,
+                "name": "Trail 215",
+                "difficultyId": "5",
+                "active": true,
+                "updatedAt": "2023-06-05T19:41:45.298Z",
+                "status": {
+                    "date": "2024-02-12T14:10:50.715Z",
+                    "status": 3
+                }
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "region": "Mock Region",
+        "name": "Trail System 3",
+        "trails": [
+            {
+                "id": 301,
+                "name": "Trail 301",
+                "difficultyId": "1",
+                "active": true,
+                "updatedAt": "2023-06-05T19:41:45.298Z",
+                "status": {
+                    "date": "2024-02-12T14:10:50.715Z",
+                    "status": 3
+                }
+            },
+            {
+                "id": 302,
+                "name": "Trail 302",
+                "difficultyId": "3",
+                "active": true,
+                "updatedAt": "2023-06-05T19:41:45.298Z",
+                "status": {
+                    "date": "2024-02-12T14:10:50.715Z",
+                    "status": 1
+                }
+            },
+            {
+                "id": 303,
+                "name": "Trail 303",
+                "difficultyId": "2",
+                "active": true,
+                "updatedAt": "2023-06-05T19:41:45.298Z",
+                "status": {
+                    "date": "2024-02-12T14:10:50.715Z",
+                    "status": 2
+                }
+            },
+            {
+                "id": 304,
+                "name": "Trail 304",
+                "difficultyId": "1",
+                "active": true,
+                "updatedAt": "2023-06-05T19:41:45.298Z",
+                "status": {
+                    "date": "2024-02-12T14:10:50.715Z",
+                    "status": 1
+                }
+            },
+            {
+                "id": 305,
+                "name": "Trail 305",
+                "difficultyId": "2",
+                "active": true,
+                "updatedAt": "2023-06-05T19:41:45.298Z",
+                "status": {
+                    "date": "2024-02-12T14:10:50.715Z",
+                    "status": 1
+                }
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "region": "Mock Region",
+        "name": "Trail System 4",
+        "trails": [
+            {
+                "id": 401,
+                "name": "Trail 401",
+                "difficultyId": "1",
+                "active": true,
+                "updatedAt": "2023-06-05T19:41:45.298Z",
+                "status": {
+                    "date": "2024-02-12T14:10:50.715Z",
+                    "status": 0
+                }
+            },
+            {
+                "id": 402,
+                "name": "Trail 402",
+                "difficultyId": "2",
+                "active": true,
+                "updatedAt": "2023-06-05T19:41:45.298Z",
+                "status": {
+                    "date": "2024-02-12T14:10:50.715Z",
+                    "status": 1
+                }
+            },
+            {
+                "id": 403,
+                "name": "Trail 403",
+                "difficultyId": "3",
+                "active": true,
+                "updatedAt": "2023-06-05T19:41:45.298Z",
+                "status": {
+                    "date": "2024-02-12T14:10:50.715Z",
+                    "status": 2
+                }
+            },
+            {
+                "id": 404,
+                "name": "Trail 404",
+                "difficultyId": "4",
+                "active": true,
+                "updatedAt": "2023-06-05T19:41:45.298Z",
+                "status": {
+                    "date": "2024-02-12T14:10:50.715Z",
+                    "status": 3
+                }
+            },
+            {
+                "id": 405,
+                "name": "Trail 405",
+                "difficultyId": "5",
+                "active": true,
+                "updatedAt": "2023-06-05T19:41:45.298Z",
+                "status": {
+                    "date": "2024-02-12T14:10:50.715Z",
+                    "status": 3
+                }
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "region": "Mock Region",
+        "name": "Trail System 5",
+        "trails": [
+            {
+                "id": 501,
+                "name": "Trail 501",
+                "difficultyId": "1",
+                "active": true,
+                "updatedAt": "2023-06-05T19:41:45.298Z",
+                "status": {
+                    "date": "2024-02-12T14:10:50.715Z",
+                    "status": 0
+                }
+            },
+            {
+                "id": 502,
+                "name": "Trail 502",
+                "difficultyId": "2",
+                "active": true,
+                "updatedAt": "2023-06-05T19:41:45.298Z",
+                "status": {
+                    "date": "2024-02-12T14:10:50.715Z",
+                    "status": 1
+                }
+            },
+            {
+                "id": 503,
+                "name": "Trail 503",
+                "difficultyId": "3",
+                "active": true,
+                "updatedAt": "2023-06-05T19:41:45.298Z",
+                "status": {
+                    "date": "2024-02-12T14:10:50.715Z",
+                    "status": 2
+                }
+            },
+            {
+                "id": 504,
+                "name": "Trail 504",
+                "difficultyId": "4",
+                "active": true,
+                "updatedAt": "2023-06-05T19:41:45.298Z",
+                "status": {
+                    "date": "2024-02-12T14:10:50.715Z",
+                    "status": 3
+                }
+            },
+            {
+                "id": 505,
+                "name": "Trail 505",
+                "difficultyId": "5",
+                "active": true,
+                "updatedAt": "2023-06-05T19:41:45.298Z",
+                "status": {
+                    "date": "2024-02-12T14:10:50.715Z",
+                    "status": 3
+                }
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "region": "Mock Region",
+        "name": "Trail System 6",
+        "trails": [
+            {
+                "id": 601,
+                "name": "Trail 601",
+                "difficultyId": "1",
+                "active": true,
+                "updatedAt": "2023-06-05T19:41:45.298Z",
+                "status": {
+                    "date": "2024-02-12T14:10:50.715Z",
+                    "status": 0
+                }
+            },
+            {
+                "id": 602,
+                "name": "Trail 602",
+                "difficultyId": "2",
+                "active": true,
+                "updatedAt": "2023-06-05T19:41:45.298Z",
+                "status": {
+                    "date": "2024-02-12T14:10:50.715Z",
+                    "status": 1
+                }
+            },
+            {
+                "id": 603,
+                "name": "Trail 603",
+                "difficultyId": "3",
+                "active": true,
+                "updatedAt": "2023-06-05T19:41:45.298Z",
+                "status": {
+                    "date": "2024-02-12T14:10:50.715Z",
+                    "status": 2
+                }
+            },
+            {
+                "id": 604,
+                "name": "Trail 604",
+                "difficultyId": "4",
+                "active": true,
+                "updatedAt": "2023-06-05T19:41:45.298Z",
+                "status": {
+                    "date": "2024-02-12T14:10:50.715Z",
+                    "status": 3
+                }
+            },
+            {
+                "id": 605,
+                "name": "Trail 605",
+                "difficultyId": "5",
+                "active": true,
+                "updatedAt": "2023-06-05T19:41:45.298Z",
+                "status": {
+                    "date": "2024-02-12T14:10:50.715Z",
+                    "status": 3
+                }
+            },
+            {
+                "id": 606,
+                "name": "Trail 606",
+                "difficultyId": "1",
+                "active": true,
+                "updatedAt": "2023-06-05T19:41:45.298Z",
+                "status": {
+                    "date": "2024-02-12T14:10:50.715Z",
+                    "status": 0
+                }
+            },
+            {
+                "id": 607,
+                "name": "Trail 607",
+                "difficultyId": "2",
+                "active": true,
+                "updatedAt": "2023-06-05T19:41:45.298Z",
+                "status": {
+                    "date": "2024-02-12T14:10:50.715Z",
+                    "status": 1
+                }
+            },
+            {
+                "id": 608,
+                "name": "Trail 608",
+                "difficultyId": "3",
+                "active": true,
+                "updatedAt": "2023-06-05T19:41:45.298Z",
+                "status": {
+                    "date": "2024-02-12T14:10:50.715Z",
+                    "status": 2
+                }
+            },
+            {
+                "id": 609,
+                "name": "Trail 609",
+                "difficultyId": "4",
+                "active": true,
+                "updatedAt": "2023-06-05T19:41:45.298Z",
+                "status": {
+                    "date": "2024-02-12T14:10:50.715Z",
+                    "status": 3
+                }
+            },
+            {
+                "id": 610,
+                "name": "Trail 610",
+                "difficultyId": "5",
+                "active": true,
+                "updatedAt": "2023-06-05T19:41:45.298Z",
+                "status": {
+                    "date": "2024-02-12T14:10:50.715Z",
+                    "status": 3
+                }
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "region": "Mock Region",
+        "name": "Trail System 7",
+        "trails": [
+            {
+                "id": 701,
+                "name": "Trail 701",
+                "difficultyId": "1",
+                "active": true,
+                "updatedAt": "2023-06-05T19:41:45.298Z",
+                "status": {
+                    "date": "2024-02-12T14:10:50.715Z",
+                    "status": 0
+                }
+            },
+            {
+                "id": 702,
+                "name": "Trail 702",
+                "difficultyId": "2",
+                "active": true,
+                "updatedAt": "2023-06-05T19:41:45.298Z",
+                "status": {
+                    "date": "2024-02-12T14:10:50.715Z",
+                    "status": 1
+                }
+            },
+            {
+                "id": 703,
+                "name": "Trail 703",
+                "difficultyId": "3",
+                "active": true,
+                "updatedAt": "2023-06-05T19:41:45.298Z",
+                "status": {
+                    "date": "2024-02-12T14:10:50.715Z",
+                    "status": 2
+                }
+            },
+            {
+                "id": 704,
+                "name": "Trail 704",
+                "difficultyId": "4",
+                "active": true,
+                "updatedAt": "2023-06-05T19:41:45.298Z",
+                "status": {
+                    "date": "2024-02-12T14:10:50.715Z",
+                    "status": 3
+                }
+            },
+            {
+                "id": 705,
+                "name": "Trail 705",
+                "difficultyId": "5",
+                "active": true,
+                "updatedAt": "2023-06-05T19:41:45.298Z",
+                "status": {
+                    "date": "2024-02-12T14:10:50.715Z",
+                    "status": 3
+                }
+            },
+            {
+                "id": 706,
+                "name": "Trail 706",
+                "difficultyId": "1",
+                "active": true,
+                "updatedAt": "2023-06-05T19:41:45.298Z",
+                "status": {
+                    "date": "2024-02-12T14:10:50.715Z",
+                    "status": 0
+                }
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "region": "Mock Region",
+        "name": "Trail System 8",
+        "trails": [
+            {
+                "id": 801,
+                "name": "Trail 801",
+                "difficultyId": "1",
+                "active": true,
+                "updatedAt": "2023-06-05T19:41:45.298Z",
+                "status": {
+                    "date": "2024-02-12T14:10:50.715Z",
+                    "status": 0
+                }
+            },
+            {
+                "id": 802,
+                "name": "Trail 802",
+                "difficultyId": "2",
+                "active": true,
+                "updatedAt": "2023-06-05T19:41:45.298Z",
+                "status": {
+                    "date": "2024-02-12T14:10:50.715Z",
+                    "status": 1
+                }
+            },
+            {
+                "id": 803,
+                "name": "Trail 803",
+                "difficultyId": "3",
+                "active": true,
+                "updatedAt": "2023-06-05T19:41:45.298Z",
+                "status": {
+                    "date": "2024-02-12T14:10:50.715Z",
+                    "status": 2
+                }
+            },
+            {
+                "id": 804,
+                "name": "Trail 804",
+                "difficultyId": "4",
+                "active": true,
+                "updatedAt": "2023-06-05T19:41:45.298Z",
+                "status": {
+                    "date": "2024-02-12T14:10:50.715Z",
+                    "status": 3
+                }
+            },
+            {
+                "id": 805,
+                "name": "Trail 805",
+                "difficultyId": "5",
+                "active": true,
+                "updatedAt": "2023-06-05T19:41:45.298Z",
+                "status": {
+                    "date": "2024-02-12T14:10:50.715Z",
+                    "status": 3
+                }
+            },
+            {
+                "id": 806,
+                "name": "Trail 806",
+                "difficultyId": "1",
+                "active": true,
+                "updatedAt": "2023-06-05T19:41:45.298Z",
+                "status": {
+                    "date": "2024-02-12T14:10:50.715Z",
+                    "status": 0
+                }
+            },
+            {
+                "id": 807,
+                "name": "Trail 807",
+                "difficultyId": "2",
+                "active": true,
+                "updatedAt": "2023-06-05T19:41:45.298Z",
+                "status": {
+                    "date": "2024-02-12T14:10:50.715Z",
+                    "status": 1
+                }
+            },
+            {
+                "id": 808,
+                "name": "Trail 808",
+                "difficultyId": "3",
+                "active": true,
+                "updatedAt": "2023-06-05T19:41:45.298Z",
+                "status": {
+                    "date": "2024-02-12T14:10:50.715Z",
+                    "status": 2
+                }
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "region": "Mock Region",
+        "name": "Trail System 9",
+        "trails": [
+            {
+                "id": 901,
+                "name": "Trail 901",
+                "difficultyId": "1",
+                "active": true,
+                "updatedAt": "2023-06-05T19:41:45.298Z",
+                "status": {
+                    "date": "2024-02-12T14:10:50.715Z",
+                    "status": 0
+                }
+            },
+            {
+                "id": 902,
+                "name": "Trail 902",
+                "difficultyId": "2",
+                "active": true,
+                "updatedAt": "2023-06-05T19:41:45.298Z",
+                "status": {
+                    "date": "2024-02-12T14:10:50.715Z",
+                    "status": 1
+                }
+            },
+            {
+                "id": 903,
+                "name": "Trail 903",
+                "difficultyId": "3",
+                "active": true,
+                "updatedAt": "2023-06-05T19:41:45.298Z",
+                "status": {
+                    "date": "2024-02-12T14:10:50.715Z",
+                    "status": 2
+                }
+            },
+            {
+                "id": 904,
+                "name": "Trail 904",
+                "difficultyId": "4",
+                "active": true,
+                "updatedAt": "2023-06-05T19:41:45.298Z",
+                "status": {
+                    "date": "2024-02-12T14:10:50.715Z",
+                    "status": 3
+                }
+            },
+            {
+                "id": 905,
+                "name": "Trail 905",
+                "difficultyId": "5",
+                "active": true,
+                "updatedAt": "2023-06-05T19:41:45.298Z",
+                "status": {
+                    "date": "2024-02-12T14:10:50.715Z",
+                    "status": 3
+                }
+            },
+            {
+                "id": 906,
+                "name": "Trail 906",
+                "difficultyId": "1",
+                "active": true,
+                "updatedAt": "2023-06-05T19:41:45.298Z",
+                "status": {
+                    "date": "2024-02-12T14:10:50.715Z",
+                    "status": 0
+                }
+            },
+            {
+                "id": 907,
+                "name": "Trail 907",
+                "difficultyId": "2",
+                "active": true,
+                "updatedAt": "2023-06-05T19:41:45.298Z",
+                "status": {
+                    "date": "2024-02-12T14:10:50.715Z",
+                    "status": 1
+                }
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "region": "Mock Region",
+        "name": "Trail System 10",
+        "trails": [
+            {
+                "id": 1001,
+                "name": "Trail 1001",
+                "difficultyId": "1",
+                "active": true,
+                "updatedAt": "2023-06-05T19:41:45.298Z",
+                "status": {
+                    "date": "2024-02-12T14:10:50.715Z",
+                    "status": 0
+                }
+            },
+            {
+                "id": 1002,
+                "name": "Trail 1002",
+                "difficultyId": "2",
+                "active": true,
+                "updatedAt": "2023-06-05T19:41:45.298Z",
+                "status": {
+                    "date": "2024-02-12T14:10:50.715Z",
+                    "status": 1
+                }
+            },
+            {
+                "id": 1003,
+                "name": "Trail 1003",
+                "difficultyId": "3",
+                "active": true,
+                "updatedAt": "2023-06-05T19:41:45.298Z",
+                "status": {
+                    "date": "2024-02-12T14:10:50.715Z",
+                    "status": 2
+                }
+            },
+            {
+                "id": 1004,
+                "name": "Trail 1004",
+                "difficultyId": "4",
+                "active": true,
+                "updatedAt": "2023-06-05T19:41:45.298Z",
+                "status": {
+                    "date": "2024-02-12T14:10:50.715Z",
+                    "status": 3
+                }
+            },
+            {
+                "id": 1005,
+                "name": "Trail 1005",
+                "difficultyId": "5",
+                "active": true,
+                "updatedAt": "2023-06-05T19:41:45.298Z",
+                "status": {
+                    "date": "2024-02-12T14:10:50.715Z",
+                    "status": 3
+                }
+            },
+            {
+                "id": 1006,
+                "name": "Trail 1006",
+                "difficultyId": "1",
+                "active": true,
+                "updatedAt": "2023-06-05T19:41:45.298Z",
+                "status": {
+                    "date": "2024-02-12T14:10:50.715Z",
+                    "status": 0
+                }
+            },
+            {
+                "id": 1007,
+                "name": "Trail 1007",
+                "difficultyId": "2",
+                "active": true,
+                "updatedAt": "2023-06-05T19:41:45.298Z",
+                "status": {
+                    "date": "2024-02-12T14:10:50.715Z",
+                    "status": 1
+                }
+            },
+            {
+                "id": 1008,
+                "name": "Trail 1008",
+                "difficultyId": "3",
+                "active": true,
+                "updatedAt": "2023-06-05T19:41:45.298Z",
+                "status": {
+                    "date": "2024-02-12T14:10:50.715Z",
+                    "status": 2
+                }
+            },
+            {
+                "id": 1009,
+                "name": "Trail 1009",
+                "difficultyId": "4",
+                "active": true,
+                "updatedAt": "2023-06-05T19:41:45.298Z",
+                "status": {
+                    "date": "2024-02-12T14:10:50.715Z",
+                    "status": 3
+                }
+            },
+            {
+                "id": 1010,
+                "name": "Trail 1010",
+                "difficultyId": "5",
+                "active": true,
+                "updatedAt": "2023-06-05T19:41:45.298Z",
+                "status": {
+                    "date": "2024-02-12T14:10:50.715Z",
+                    "status": 3
+                }
+            },
+            {
+                "id": 1011,
+                "name": "Trail 1011",
+                "difficultyId": "1",
+                "active": true,
+                "updatedAt": "2023-06-05T19:41:45.298Z",
+                "status": {
+                    "date": "2024-02-12T14:10:50.715Z",
+                    "status": 0
+                }
+            }
+        ]
+    }
+
+]
